@@ -1,0 +1,2 @@
+FROM oisf/suricata
+CMD ["suricata", "-i", "eth0"]

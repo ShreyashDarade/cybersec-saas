@@ -1,0 +1,2 @@
+FROM openziti/ziti
+CMD ["ziti", "controller"]
